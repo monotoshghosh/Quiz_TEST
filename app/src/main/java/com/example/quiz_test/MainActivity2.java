@@ -12,7 +12,7 @@ import android.widget.Toast;
 
 public class MainActivity2 extends AppCompatActivity {
     //
-    String[] que={"1. Is the sky typically Green during the day ?","2. Have you watched Nanja Hattori ?","3. Have you slept 7+ hrs last night ?","4. Is Orange is the colour of Orange ?","5. Have you enjoyed the Quizzzz.. ?"};
+    String[] que={"1. Is the sky typically Green during the day ?","2. Have you watched Nanja Hattori ?","3. Have you slept 7+ hrs last night ?","4. Is Orange the colour of Orange ?","5. Have you enjoyed the Quizzzz.. ?"};
     boolean[] ans={false,true,true,true,true};
 
     TextView question;
